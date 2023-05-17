@@ -1,0 +1,1 @@
+# solar_panels_detetction_in_satellite_photos
